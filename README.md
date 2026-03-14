@@ -31,11 +31,11 @@
 
 ## 📂 Избранные проекты
 
-### [Синий Рубеж (Blue Frontier)](https://github.com/DefaultcoderN993/Space_Shooter)
+### [Синий Рубеж (Blue Frontier)](В разработке)
 **Стек:** Pygame.
 Шутер с уникальной системой "неидеальных NPC", обладающих собственным характером и склонностью к предательству.
 
-### [Project: Paranoia](https://github.com/DefaultcoderN993/ping_pong)
+### [Project: Paranoia]
 **Стек:** Python.
 Психологический хоррор с процедурной генерацией ситуаций и персонажей. Каждое прохождение — уникально.
 
